@@ -12,6 +12,7 @@
 
 ### 3rd Party Assets
 [Aquas](https://assetstore.unity.com/packages/vfx/shaders/aquas-lite-built-in-render-pipeline-53519)  
+[Dialog System](https://assetstore.unity.com/packages/tools/ai/dialogue-system-for-unity-11672)  
 [Json.net](https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347)  
 [Landscape Builder](https://assetstore.unity.com/packages/tools/terrain/landscape-builder-55463)  
 [Procedural Image](https://assetstore.unity.com/packages/tools/gui/procedural-ui-image-52200)  
