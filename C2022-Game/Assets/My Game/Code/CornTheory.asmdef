@@ -1,0 +1,25 @@
+{
+    "name": "CornTheory",
+    "rootNamespace": "CornTheory",
+    "references": [
+        "Unity.TextMeshPro",
+        "TatmanGames.Common",
+        "TatmanGames.DebugUI",
+        "TatmanGames.ScreenUI"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "LinuxStandalone64",
+        "macOSStandalone",
+        "WSA",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
