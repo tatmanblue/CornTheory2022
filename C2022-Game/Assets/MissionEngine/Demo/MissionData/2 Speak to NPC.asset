@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5bcf79f5724dd89feb8865de45a1a8, type: 3}
+  m_Name: 2 Speak to NPC
+  m_EditorClassIdentifier: 
+  id: 2
+  parent: {fileID: 11400000, guid: 6208c440fd92d9d4f867da8fdea7ba99, type: 2}
+  uuid: f7c737df-c137-4c6c-9259-32ae1e31a6c9
+  missionName: NPC Dialog
+  description: Find the NPC and speak them
+  steps:
+  - {fileID: 11400000, guid: a5bb49a5ac2381b49b95b208ec787059, type: 2}
+  - {fileID: 11400000, guid: f3625c6d54416584fab9e5a9ee53ebca, type: 2}
+  - {fileID: 11400000, guid: 1bfb25638bf1eca45945efe69fd8f107, type: 2}

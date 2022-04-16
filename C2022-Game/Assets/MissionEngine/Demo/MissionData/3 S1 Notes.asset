@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6faebaa35d94f6c96b64a7b72c47fd7, type: 3}
+  m_Name: 3 S1 Notes
+  m_EditorClassIdentifier: 
+  id: 1
+  parent: {fileID: 0}
+  mission: {fileID: 11400000, guid: 43dc603f34e491946989ad1c0f4e9ca0, type: 2}
+  uuid: ad178ed6-8be0-42af-a4df-01cd45a32699
+  missionStepName: Note
+  description: 'Time to return to the starting point.  '
