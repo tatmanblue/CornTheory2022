@@ -11,7 +11,7 @@ Carl landed just outside a of town.  Carl didn’t know if this was where he was
 Unity Game.   RPG/Open world style play in a modern setting.  For Windows, MacOS, Linux
 
 ## Assets
-Built with Unity 2022.03 LTS
+Built with Unity 2021.03 LTS
 
 You must have the 3rd party assets installed prior to opening any of scenes.   In house assets are built by bulding and exporting the asset and are checked into the repo.
 3rd party assets must be purchased from the vendor (links provided).  Most of the 3rd party assets are required to run the demo but not required to use the library.
@@ -21,14 +21,16 @@ You must have the 3rd party assets installed prior to opening any of scenes.   I
 [Debug UI](https://github.com/tatmanblue/UI-Input/tree/main/Assets/DebugUI)  
 [ScreenUI](https://github.com/tatmanblue/UI-Input/tree/main/Assets/ScreenUI)  
 
+### Unity Registry Assets
+[Cinemachine](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.6/manual/index.html)  
+[Text Mesh Pro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html)  
+
 ### 3rd Party Assets
 [Aquas](https://assetstore.unity.com/packages/vfx/shaders/aquas-lite-built-in-render-pipeline-53519)  
-[Cinemachine](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.6/manual/index.html)  
 [Json.net](https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347)  
 [Landscape Builder](https://assetstore.unity.com/packages/tools/terrain/landscape-builder-55463)  
 [Procedural Image](https://assetstore.unity.com/packages/tools/gui/procedural-ui-image-52200)  
 [Opsive](https://assetstore.unity.com/packages/tools/game-toolkits/ultimate-character-controller-99962)  
-[Text Mesh Pro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html)  
 [UI Builder](https://assetstore.unity.com/packages/2d/gui/ui-builder-29757)  
 
 # License
