@@ -37,12 +37,12 @@ TagManager:
   - 
   - 
   - LB Celestials
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - MovingPlatform
+  - VisualEffect
+  - Overlay
+  - SubCharacter
+  - Character
   m_SortingLayers:
   - name: Default
     uniqueID: 0

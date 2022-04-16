@@ -616,7 +616,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    Standalone: LANDSCAPE_BUILDER;LB_EDITOR
+    Standalone: LANDSCAPE_BUILDER;LB_EDITOR;FIRST_PERSON_CONTROLLER;THIRD_PERSON_CONTROLLER;ULTIMATE_CHARACTER_CONTROLLER_SHOOTER;FIRST_PERSON_SHOOTER;ULTIMATE_CHARACTER_CONTROLLER_MELEE;FIRST_PERSON_MELEE
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
