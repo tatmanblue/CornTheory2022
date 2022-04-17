@@ -14,7 +14,7 @@ Unity Game.   RPG/Open world style play in a modern setting.  For Windows, MacOS
 Built with Unity 2021.03 LTS
 
 You must have the 3rd party assets installed prior to opening any of scenes.   In house assets are built by bulding and exporting the asset and are checked into the repo.
-3rd party assets must be purchased from the vendor (links provided).  Most of the 3rd party assets are required to run the demo but not required to use the library.  
+3rd party assets must be purchased from the vendor (links provided).  
 
 Please refer to [Assets](docs/ASSET-LIST.md) for entire list of assets both internal and 3rd party.
 
