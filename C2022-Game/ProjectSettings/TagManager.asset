@@ -10,6 +10,7 @@ TagManager:
   - LB Hail Particles
   - LB Snow Particles
   - Obstacle
+  - JumpPoint
   layers:
   - Default
   - TransparentFX
