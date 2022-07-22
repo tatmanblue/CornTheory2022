@@ -6,6 +6,7 @@ https://cosminmirza.bandcamp.com/album/free-random-music-pack4
 https://admixplay.com/  
 
 ## images
+https://fonts.google.com/icons  
 https://www.shutterstock.com/collections  
 https://www.istockphoto.com/collaboration/boards/CWsApVFdaUaZEEltNP6pgw  
 https://stock.adobe.com/Library/554e1379-f0a6-408f-99c0-e613b29d65c4  
